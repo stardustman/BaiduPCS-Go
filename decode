@@ -1,0 +1,3 @@
+cd /apps/baidu_shurufa
+config set -appid=265486
+ls
